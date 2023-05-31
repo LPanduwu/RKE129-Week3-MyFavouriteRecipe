@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Open+Sans:wght@500&display=swap');
 body {
     background-color: lavender;
 }
@@ -10,7 +10,7 @@ body {
 .info{
     text-align: center;
     color: rgb(0, 0, 100);
-    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .cheesecake {
     text-align: center;
@@ -21,12 +21,12 @@ body {
 .link {
     text-align: center;
     color: rgb(0, 0, 100);
-    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .table {
     margin: 0 auto;
     color: rgb(0, 0, 100);
-    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .table table {
     margin: 0 auto;
@@ -52,7 +52,7 @@ body {
     margin: 0 auto;
     border: ridge;
     color: rgb(0, 0, 100);
-    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
     background-color: beige;
 }
 .numbered ol li {
@@ -63,7 +63,7 @@ body {
     margin: 0 auto;
     border: ridge;
     color: rgb(0, 0, 100);
-    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
     background-color: beige;
 }
 .list ul li {
