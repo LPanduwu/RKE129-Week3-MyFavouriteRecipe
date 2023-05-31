@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Playfair+Display&display=swap');
+body {
+    background-color: lavender;
+}
+.heading{
+    text-align: center;
+    color: rgb(50, 0, 80);
+    font-family: 'Cherry Bomb One', cursive;
+}
+.info{
+    text-align: center;
+    color: rgb(0, 0, 100);
+    font-family: 'Playfair Display', serif;
+}
+.cheesecake {
+    text-align: center;
+}
+.cheesecake img {
+    height: 500px;
+}
+.link {
+    text-align: center;
+    color: rgb(0, 0, 100);
+    font-family: 'Playfair Display', serif;
+}
+.table {
+    margin: 0 auto;
+    color: rgb(0, 0, 100);
+    font-family: 'Playfair Display', serif;
+}
+.table table {
+    margin: 0 auto;
+    background-color: beige;
+}
+.table table tr {
+    text-align: center;
+}
+.table table tr th {
+    padding: 10px;
+}
+.table table tr td {
+    padding: 8px;
+}
+.photos {
+    text-align: center;
+}
+.photos img{
+    height: 200px;
+}
+.numbered ol {
+    width: 75%;
+    margin: 0 auto;
+    border: ridge;
+    color: rgb(0, 0, 100);
+    font-family: 'Playfair Display', serif;
+    background-color: beige;
+}
+.numbered ol li {
+    padding: 10px;
+}
+.list ul {
+    width: 75%;
+    margin: 0 auto;
+    border: ridge;
+    color: rgb(0, 0, 100);
+    font-family: 'Playfair Display', serif;
+    background-color: beige;
+}
+.list ul li {
+    padding: 10px;
+    list-style: circle;
+}
+.footer {
+    text-align: center;
+    color: rgb(50, 0, 80);
+    font-family: 'Cherry Bomb One', cursive;
+}
